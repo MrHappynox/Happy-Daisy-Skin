@@ -1,6 +1,6 @@
 # - Happy Daisy -
 
-Click [here](https://mega.nz/file/axYzHIqJ#tgPETn5y-Mwn5WK4zSYfJtgRE4YS5BWeENHeK0sIH4Q) to download the skin.
+Click [here](https://mega.nz/file/z0BRSLJZ#lFSLOt1QvwBMty0Hdwonk4xcjHmji12I3U6dAnPxMiI) to download the skin.
 
 A skin made and used by [Happynox](https://osu.ppy.sh/users/15101580). You can change the hitsounds with the "hitsounds" folder in the skin folder, and you can also change the combo color in the "skin.ini" file.
 
