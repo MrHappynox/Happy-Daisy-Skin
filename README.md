@@ -4,7 +4,7 @@ Click [here](https://mega.nz/file/PoZz1LgJ#BR-T2KO-eZJrPQvyufHheY7NZ-aReRs_QTM1U
 
 A skin made and used by [Happynox](https://osu.ppy.sh/users/15101580). You can change the hitsounds with the "Hitsound" folder or the cursor in the "Cursor" folder, in the skin folder. And you can also change the combo color in the "skin.ini" file.
 
-![](https://i.imgur.com/KJFtN2c.png)
+![](https://i.imgur.com/Yqa9AWU.png)
 
 ![](https://i.imgur.com/YeCFbQC.png)
 
